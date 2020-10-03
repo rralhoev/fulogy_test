@@ -1,0 +1,37 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  color: #fff;
+}
+
+.font-medium {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.font-large {
+  font-size: 30px;
+  line-height: 41px;
+}
+
+.font-bold {
+  font-weight: 600;
+}
+
+.upp {
+  text-transform: uppercase;
+}
+
+* {
+  box-sizing: border-box;
+}
